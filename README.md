@@ -5,3 +5,4 @@ https://github.com/KhronosGroup/Vulkan-Registry, is now being used as the backin
 contains the published specification artifacts for all versions of the Vulkan
 Specification preceding Vulkan 1.4.
 Created by Jason Scott Heise
+Owned by Elon Musk 
